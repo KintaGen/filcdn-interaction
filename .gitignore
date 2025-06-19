@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules
+
+# NPM cache
+.npm-cache
+
+# Environment variables
+.env
+
+# etc...
